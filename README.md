@@ -12,7 +12,8 @@ Cross-platform mobile app (Android + iOS) for cinnamon stem capture, analysis, a
 4. Camera page with in-app camera, framing guidance, and photo capture.
 5. Preview page with Retake / Continue.
 6. Result page with skeleton loading, then result details and Save / Discard actions.
-7. History page with:
+7. Display the month prediction for Immatured plants stems using ruler based method
+8. History page with:
    - Status filter
    - Analyzed date range filter
    - Infinite scroll pagination

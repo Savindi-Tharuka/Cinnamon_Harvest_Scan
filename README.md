@@ -1,5 +1,5 @@
 # Cinnamon_Harvest_Scan
-# Expo React Native App
+# Expo React Native App for my research function
 
 Cross-platform mobile app (Android + iOS) for cinnamon stem capture, analysis, and history tracking,month prediction using react native with expo go app for frontend
 
